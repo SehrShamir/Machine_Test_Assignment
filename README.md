@@ -18,4 +18,7 @@ Create a .env file and add your MongoDB URI:
 -MONGO_URI=mongodb://localhost:27017/your-db-name
 -PORT=5000
 
-
+## Backend:
+-npm run dev – starts the backend with Nodemon
+## Frontend:
+-npm start – starts the React dev server
